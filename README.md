@@ -1,7 +1,7 @@
 Vue JS starting :)
 
 
-# employee
+# Employee
 
 ## Project setup
 ```
